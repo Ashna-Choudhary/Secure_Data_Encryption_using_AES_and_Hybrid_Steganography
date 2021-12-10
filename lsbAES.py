@@ -297,7 +297,7 @@ class Project():
         return unhideTxt
 
 ch=0
-Message="LSB Steganography project\n"
+Message="Secure_Data_Encryption_using_AES_and_Hybrid_Steganography\n"
 print('\n'.join('{:^80}'.format(s) for s in Message.split('\n')))
 
 print("\n")
